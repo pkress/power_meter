@@ -1,0 +1,12 @@
+dofile("wifi_config.lua")
+dofile("wifi_setup.lua")
+dofile("display_setup.lua")
+dofile("voltage_setup.lua")
+dofile("draw.lua")
+dofile("power_buzz.lua")
+dofile("update_time.lua")
+dofile("update_display.lua")
+dofile("update_power.lua")
+dofile("update_voltage.lua")
+dofile("server.lua")
+
